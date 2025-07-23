@@ -1,12 +1,12 @@
-<!-- ---
-title: "Paper Title Number 1"
+---
+title: "Green Buildings: A Step Towards Sustainable Future"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-04-01-green-buildings
+excerpt: 'This book chapter discusses the principles, technologies, and practices of green buildings as a sustainable approach to mitigate climate change and improve energy efficiency.'
+date: 2023-04-01
+venue: 'In: Environmental Sustainability and Climate Change Mitigation'
+paperurl: ''
+citation: 'Mitra, S. (2023). "Green Buildings: A Step Towards Sustainable Future." In <i>Environmental Sustainability and Climate Change Mitigation</i>. ISBN: 978-93-5747-780-2.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
+This chapter explores the concept of **green buildings** as a critical element in addressing the challenges posed by rapid urbanization, environmental degradation, and climate change. It discusses sustainable architecture, energy efficiency, eco-friendly materials, and the role of environmental technology in modern construction practices. By integrating real-world examples and emerging trends, the chapter emphasizes the need for policy support, public awareness, and interdisciplinary research to mainstream green building practices in both developing and developed nations.
