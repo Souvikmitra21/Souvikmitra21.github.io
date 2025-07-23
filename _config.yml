@@ -9,8 +9,9 @@ baseurl                  : ""
 repository               : "souvikmitra21/souvikmitra21.github.io"
 
 # Site Author
-author:
-  avatar           : "profile.png"  # Make sure your profile picture is in /images/
+ author:
+  avatar: "/images/profile.png"
+ # Make sure your profile picture is in /images/
   name             : "Souvik Mitra"
   bio              : "Environmental Researcher | Data Science | Remote Sensing | UGC-NET"
   location         : "India"
