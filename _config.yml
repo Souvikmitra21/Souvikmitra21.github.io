@@ -9,20 +9,20 @@ baseurl                  : ""
 repository               : "souvikmitra21/souvikmitra21.github.io"
 
 # Site Author
- author:
+author:
   avatar: "images/profile.png"
- # Make sure your profile picture is in /images/
+  # Make sure your profile picture is in /images/
   name             : "Souvik Mitra"
   bio              : "Environmental Researcher | Data Science | Remote Sensing | UGC-NET"
   location         : "India"
   employer         : "Independent Researcher"
   email            : "mitrasouvik2001@gmail.com"
-
   github           : "Souvikmitra21"
   linkedin         : "souvik-mitra-313b3321a/"
   kaggle           : # Add if applicable
   orcid            : # Add if available
-
+ author:
+ 
 # Site Settings
 teaser                   :  # Add image filename if you want a default teaser image
 breadcrumbs              : false
