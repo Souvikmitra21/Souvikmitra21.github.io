@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Publication"
+permalink: /Publication/
+author_profile: true
+---
+
+
 ## 📘 Publications
 
 ### Book Chapter
