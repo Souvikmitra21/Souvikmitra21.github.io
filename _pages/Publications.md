@@ -1,9 +1,10 @@
 ---
-layout: archive
-title: "Publication"
-permalink: /Publication/
-author_profile: true
+layout: collection
+title: "Publications"
+collection: publications
+permalink: /publications/
 ---
+
 
 
 ## 📘 Publications
