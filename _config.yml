@@ -19,6 +19,9 @@ author:
   github      : "Souvikmitra21"
   linkedin    : "https://www.linkedin.com/in/souvik-mitra-313b3321a/"
 
+
+ author_profile: true
+
 # Social Links (for SEO + sharing)
 social:
   type  : "Person"
