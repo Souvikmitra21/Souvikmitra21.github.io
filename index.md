@@ -5,7 +5,7 @@ author_profile: true      # Shows your sidebar with photo + bio
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  image: /assets/images/your-header.jpg
+  image: /assets/images/profile.jpg
 ---
 
 ## 👋 Hi there, I'm Souvik Mitra
