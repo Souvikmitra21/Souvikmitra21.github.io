@@ -1,11 +1,8 @@
 ---
-layout: home              # Tells Jekyll to use the homepage layout
-title: "Welcome"          # Title of the homepage tab/browser
-author_profile: true      # Shows your sidebar with photo + bio
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  image: /assets/images/profile.jpg
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
 ---
 
 ## 👋 Hi there, I'm Souvik Mitra
