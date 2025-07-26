@@ -14,7 +14,7 @@ author:
   pronouns    : "he/him"
   bio         : "Environmental Researcher, UGC-NET, PhD Aspirant"
   location    : "Jharkhand, India"
-  avatar      : "assets/images/profile.png"  # Make sure the image exists at this path
+  avatar      : "images/profile.png" # Make sure the image exists at this path
   email       : "mitrasouvik2001@gmail.com"
   github      : "Souvikmitra21"
   linkedin    : "https://www.linkedin.com/in/souvik-mitra-313b3321a/"
