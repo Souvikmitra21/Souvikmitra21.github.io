@@ -119,7 +119,7 @@ kramdown:
 collections:
   workexp:
     output: true
-    permalink: /:collection/:path/collections:
+    permalink: /workexp/:path/
   publications:
     output: true
     permalink: /publications/:name/
