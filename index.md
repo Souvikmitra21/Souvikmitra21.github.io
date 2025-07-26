@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  image: /assets/images/profile.jpg
+  image: /assets/images/profile.png
 ---
 
 ## 👋 Hi there, I'm Souvik Mitra
