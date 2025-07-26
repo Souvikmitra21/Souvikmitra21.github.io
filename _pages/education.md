@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-### Master of Science in Data and Knowledge Engineering (April 2022 - December 2024)
-* Otto von Guericke University, Magdeburg, Germany
-* GPA: 1.8 (German standard)
+### Master of Science in Environmental Sciences(Environmental Technology) (December 2022 - August 2024)
+* Banaras Hindu University, Varanasi, India
+* GPA: 8.52/10
 
-### Bachelor of Science in Computer Science (June 2016 - June 2019)
-* St. Xavier’s College, Kolkata, India (University of Calcutta)
-* GPA: 2.1 (German standard)
+### Bachelor of Science in Environmental Sciences (June 2019 - June 2022)
+* PK Roy Memorial College, India
+* GPA: 8.52/10
